@@ -22,8 +22,12 @@ The dashboard draws data from two primary sources:
 1. Excel/CSV Files: Retrieves Targets, Market Share data, and associated information from Excel and CSV files.
 
 2. MySQL Database: Extracts Facts and Dimensions for all departments from a MySQL database.
+
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTUwOGJiMjYtZTE2MS00NWI4LWE0YWYtZDEwN2FkNjY2YTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqib-bashir-89a76984/)
+
+
+
 
 
