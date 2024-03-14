@@ -24,7 +24,7 @@ The dashboard draws data from two primary sources:
 *2. MySQL Database:* Extracts Facts and Dimensions for all departments from a MySQL database.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTUwOGJiMjYtZTE2MS00NWI4LWE0YWYtZDEwN2FkNjY2YTliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0d542519bd9dda372e92)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqib-bashir-89a76984/)
 
 
