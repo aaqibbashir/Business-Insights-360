@@ -26,23 +26,23 @@ The dashboard draws data from two primary sources:
 
 ## Screenshots
 
-![Home]<img width="671" alt="Home" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/d89be4d8-88ab-4d9c-a688-c58c914de21a">
+<img width="671" alt="Home" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/d89be4d8-88ab-4d9c-a688-c58c914de21a">
 
-![Finance View]<img width="672" alt="Finance" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/d065f0bb-5457-45a7-b86c-25f57ee7ec9d">
+<img width="672" alt="Finance" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/d065f0bb-5457-45a7-b86c-25f57ee7ec9d">
 
-![Sales View]<img width="672" alt="Sales" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/c65439e4-15b7-4ebf-b59b-54c60186b6b2">
+<img width="672" alt="Sales" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/c65439e4-15b7-4ebf-b59b-54c60186b6b2">
 
-![Tooltip]<img width="691" alt="Tooltip" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/24fbf904-7140-400b-b85e-b4d057fdd232">
+<img width="691" alt="Tooltip" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/24fbf904-7140-400b-b85e-b4d057fdd232">
 
-![Marketing View]<img width="674" alt="Marketing" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/b8e964c7-4526-4506-80ac-82ebbc4de9d7">
+<img width="674" alt="Marketing" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/b8e964c7-4526-4506-80ac-82ebbc4de9d7">
 
-![Supply Chain View]<img width="675" alt="Supply Chain" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/3f7a20cf-82cc-4a0a-9fcb-bd93ce35f9d1">
+<img width="675" alt="Supply Chain" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/3f7a20cf-82cc-4a0a-9fcb-bd93ce35f9d1">
 
-![Executive View]<img width="672" alt="Executive" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/ca0dbb31-8d8b-4d31-8737-ad3a84b9871c">
+<img width="672" alt="Executive" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/ca0dbb31-8d8b-4d31-8737-ad3a84b9871c">
 
-![Support](https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/f689a651-182e-4d1a-baaa-df1a306009fd)
+(https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/f689a651-182e-4d1a-baaa-df1a306009fd)
 
-![Data Model]<img width="716" alt="Data Model" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/cd1904e9-ef18-490f-b6ff-561437cfbeee">
+<img width="716" alt="Data Model" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/cd1904e9-ef18-490f-b6ff-561437cfbeee">
 
 
 
