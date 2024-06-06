@@ -45,13 +45,11 @@ The dashboard draws data from two primary sources:
 <img width="716" alt="Data Model" src="https://github.com/aaqibbashir/Business-Insights-360/assets/6091987/cd1904e9-ef18-490f-b6ff-561437cfbeee">
 
 
-
+---
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqib-bashir-89a76984/)
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib)
 
 
 
