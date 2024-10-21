@@ -48,7 +48,7 @@ The dashboard draws data from two primary sources:
 ---
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=codio&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=codio&logoColor=white)](https://aaqibbashir.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib)
 
 
